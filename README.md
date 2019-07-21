@@ -1,4 +1,4 @@
-# ylwl-sonar [![Build Status](https://api.travis-ci.org/ihuanglei/pxt-ylwl-sonar.svg?branch=master)]
+# ylwl-sonar [![Build Status](https://api.travis-ci.org/ihuanglei/pxt-ylwl-sonar.svg?branch=master)](https://travis-ci.org/ihuanglei/pxt-ylwl-sonar)
 
 yuanlaiwangluo.com sonar
 
